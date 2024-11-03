@@ -1,0 +1,28 @@
+/* src/Header/Navbar.css */
+
+.navbar {
+    background-color: #fdfafa;
+  }
+  
+  .nav-link {
+    color: #0f0f0f !important; /* Change color as needed */
+  }
+  
+  .nav-link:hover {
+    color: #5059df !important; /* Change color on hover */
+  }
+  
+  .position-relative {
+    display: inline-block;
+  }
+  
+  .total-bill {
+    font-size: 0.9rem;
+    color: #080808; /* Change color as needed */
+  }
+  
+  /* Adjust icon sizes */
+  .nav-link i {
+    font-size: 1.5rem;
+  }
+  
